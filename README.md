@@ -7,6 +7,8 @@ Olá pessoal, como vão? Venho trazer uma discussão para o quanto a IA poderia 
 
 ## Bora entender se bate um coração nessa máquina? 
 
+https://github.com/JulianaZCA/lab-natty-or-not/blob/cf2e37e8f247db4225fab5d09884453453be5536/VIDEO%20-%20Projeto%20Curso%20IA.mp4
+
 ### Objetivos
 
 1. Levantar quais aplicativos mais comuns de edição de vídeos têm disponíveis para montar vídeo de pessoas se abraçando?
